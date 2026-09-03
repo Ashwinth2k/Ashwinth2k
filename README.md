@@ -1,6 +1,6 @@
-# 🙋‍♂️ Hello! I'm Ashwinth Muthukumar
+# 🙋‍♂️ Hey!!! I'm Ashwinth Muthukumar
 
-# 💫 About Me:
+# 👀 Curious to Know More About Me?:
 🧬 Bioinformatics & Computational Biology Enthusiast<br>🔬 Exploring NGS, RNA-Seq, Genomics & Biological Data Analysis<br>🐧 Linux/Unix | Shell Scripting | Computational Workflows<br>🖥️ Building skills in HPC, workflow automation & scalable analysis<br>⚡ Creating reproducible solutions for real-world biological datasets<br>📊 Turning biological data into meaningful computational insights<br>📚 Creating hands-on Bioinformatics tutorials, courses & learning resources<br>🚀 Building at the intersection of Biology, Computing & Education<br>🌱 Lifelong learner | Builder | Problem Solver<br>🤝 Open to Bioinformatics, Computational Biology & Research Opportunities<br>✨ Learn. Build. Analyze. Innovate. 
 
 # 💻 Tech Stack:
@@ -17,5 +17,13 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🌐 Connect With ME:
+# 🚀 What I'm Interested In
+- 🧬 Computational Biology & Bioinformatics
+- 🔬 Genomics, NGS & Transcriptomics
+- 📊 Biological Data Science
+- ⚡ Reproducible & Scalable Workflows
+- 🖥️ HPC & High-Performance Computing
+- 🤖 AI/ML for Biology
+
+# 🌐 Connect With ME:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100004532956669) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m._.ashwinth) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ashwinth2000) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashwinth2000@gmail.com)
